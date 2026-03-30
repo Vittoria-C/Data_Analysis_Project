@@ -1,4 +1,4 @@
-# ====================================================================
+# =====================================================================
 # PROJECT: ANALYSIS OF SALES DATASET
 # AUTHORS: Calonghi Vittoria, Cristofolini Claudia, Di Palma Benedetta
 # DATE: January 2026
